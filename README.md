@@ -25,3 +25,6 @@ It also supports exporting the filtered signal to CSV for further analysis.
 
 ```bash
 pip install -r requirements.txt
+##🚀 Run the Application
+
+python analyzer_gui.py

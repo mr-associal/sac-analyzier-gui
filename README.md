@@ -23,11 +23,15 @@ It also supports exporting the filtered signal to CSV for further analysis.
 
 ## 📦 Install Dependencies
 
+pip install -r requirements.txt
 
 ---
 
 ## 🚀 Run the Application
 
+---
+
+python analyzer_gui.py
 
 ---
 
@@ -46,5 +50,3 @@ Filtered signals are saved as `.csv` files in the `exports/` directory.
 ## 📝 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-

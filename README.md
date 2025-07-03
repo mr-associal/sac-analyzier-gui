@@ -43,9 +43,13 @@ Filtered signals are saved as `.csv` files in the `exports/` directory.
 
 ---
 
-## 📸 Screenshots
+## 🖼️ Screenshots
 
-*(You can add screenshots here by placing images in a `screenshots/` folder and linking them like below)*
+### Main Interface
+![GUI](screenshots/gui_main.png)
+
+### FFT Plot and Spectogram View
+![FFT](screenshots/fft_plot_and_spectogram.png)
 
 ---
 

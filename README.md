@@ -27,3 +27,9 @@ Install the necessary packages:
 
 ```bash
 pip install -r requirements.txt
+
+---
+## 🚀 Run the Application
+
+```bash
+python analyzer_gui.py

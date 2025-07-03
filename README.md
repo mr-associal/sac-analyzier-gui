@@ -13,22 +13,31 @@ It also supports exporting the filtered signal to CSV for further analysis.
 
 ## 🔧 Features
 
-- 📂 Load one or more `.sac` files
-- 🎚️ Apply Butterworth bandpass filter
-- 📊 Plot time series, frequency spectrum, and spectrogram
-- 💾 Export filtered signal as CSV
+- 📂 Load one or more `.sac` files  
+- 🎚️ Apply Butterworth bandpass filter  
+- 📊 Plot time series, frequency spectrum, and spectrogram  
+- 💾 Export filtered signal as CSV  
 - 🖱️ GUI built using `tkinter`, analysis with `obspy`, `scipy`, `matplotlib`
 
 ---
 
 ## 📦 Install Dependencies
 
-```bash
-pip install -r requirements.txt
 
 ---
 
-##  🚀 Run the Application
+## 🚀 Run the Application
 
-```
-python analyzer_gui.py
+
+---
+
+## 📁 Output
+
+Filtered signals are saved as `.csv` files in the `exports/` directory.
+
+---
+
+## 📸 Screenshots
+
+*(You can add screenshots here by placing images in a `screenshots/` folder and linking them like below)*
+

@@ -1,0 +1,9 @@
+obspy
+
+numpy
+
+matplotlib
+
+scipy
+
+tk

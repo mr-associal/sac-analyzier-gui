@@ -41,3 +41,10 @@ Filtered signals are saved as `.csv` files in the `exports/` directory.
 
 *(You can add screenshots here by placing images in a `screenshots/` folder and linking them like below)*
 
+---
+
+## 📝 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+
